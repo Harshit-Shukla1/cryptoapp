@@ -1,6 +1,6 @@
+# Project Link:- https://cryptoapp-harshit.netlify.app
 
 # Cryptoverse - Explore the World of Cryptocurrency
-
 
 Used for designing:-  https://ant.design/
 
@@ -9,13 +9,23 @@ We're going to use React and multiple APIs powered by https://rapidapi.com.
 ## Home Page:- 
 
 
+![image](https://user-images.githubusercontent.com/42890845/143678459-6cbd624f-6776-43e3-8cb7-99f3c51844bb.png)
+
+
 ## Cryptocurrencies Page with Search bar:- 
+
+![image](https://user-images.githubusercontent.com/42890845/143678473-c16a2eb0-ae44-4a3c-8204-b76292a8d9f4.png)
+
 
 
 
 
 ## Detailed information with graph:-
 
+![image](https://user-images.githubusercontent.com/42890845/143678477-185a7dcd-d32d-4351-8a0f-807d4cf6c88b.png)
+
+
+![image](https://user-images.githubusercontent.com/42890845/143678482-86a7e96b-7a24-401b-86c0-5cfa3b088256.png)
 
 
 
@@ -24,53 +34,22 @@ We're going to use React and multiple APIs powered by https://rapidapi.com.
 
 ## Exchanges Section:- 
 
+![image](https://user-images.githubusercontent.com/42890845/143678483-1496c83d-a136-4e8f-9d07-671a387550b5.png)
 
 
 
 ## News Section with search dropdown:- Includes Time and News provider's details
 
+![image](https://user-images.githubusercontent.com/42890845/143678489-22104c39-5829-4192-804d-e3557a1d8d21.png)
 
 
 
 ## Footer:- 
 
+![image](https://user-images.githubusercontent.com/42890845/143678492-332e7f60-74f5-460d-89cf-390287dd10df.png)
 
 
 ![image](https://user-images.githubusercontent.com/42890845/143678436-9bb4bb38-2131-476b-ad9e-2c0c85f087aa.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
