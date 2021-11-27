@@ -49,10 +49,6 @@ We're going to use React and multiple APIs powered by https://rapidapi.com.
 ![image](https://user-images.githubusercontent.com/42890845/143678492-332e7f60-74f5-460d-89cf-390287dd10df.png)
 
 
-![image](https://user-images.githubusercontent.com/42890845/143678436-9bb4bb38-2131-476b-ad9e-2c0c85f087aa.png)
-
-
-
 
 # Getting Started with Create React App
 
