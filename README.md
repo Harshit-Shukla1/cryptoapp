@@ -1,3 +1,80 @@
+
+# Cryptoverse - Explore the World of Cryptocurrency
+
+
+Used for designing:-  https://ant.design/
+
+We're going to use React and multiple APIs powered by https://rapidapi.com.
+
+## Home Page:- 
+
+
+## Cryptocurrencies Page with Search bar:- 
+
+
+
+
+## Detailed information with graph:-
+
+
+
+
+
+
+
+## Exchanges Section:- 
+
+
+
+
+## News Section with search dropdown:- Includes Time and News provider's details
+
+
+
+
+## Footer:- 
+
+
+
+![image](https://user-images.githubusercontent.com/42890845/143678436-9bb4bb38-2131-476b-ad9e-2c0c85f087aa.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
